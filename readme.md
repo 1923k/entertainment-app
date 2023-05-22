@@ -2,6 +2,7 @@
 ------------------------------------------------------------------------
 MUSIC PLAYER APPLICATICATION                                            |
 ------------------------------------------------------------------------|
+This is the ALX project Task for developing a portfolio project. The name of the portfolio project is Musiu Player Application which is a web based application.
 
 > NOTICE:
   1. The application is used for learning purpose
@@ -9,19 +10,15 @@ MUSIC PLAYER APPLICATICATION                                            |
   3. The application is not for commercial purpose
   4. Any missuse of the application and its content is not permitted
 
-> DESCRIPTION 
-This is the ALX project Task for developing a portfolio project. The name of the portfolio project is Musiu Player Application which is a web based application.
-
 > PROJECT LINK(live Demo): [Music Player App](https://solesinnovationhub.infinityfreeapp.com/sw-projects/webapps/music-player-app/index.php)
-
-> PURPOSE OF THE MUSIC PLAYER APPLICATION
-The app is used for entertainment by exploring and browsing throught the interfaces by playing music and reading news that shoots up in the industry of music.
 
 > TECHNOLODIES USED FOR DEVELOPMENT
  1. XAMMP Server
  2. Visual Studio Code
  3. Languages : Javascript, html, css and php
 
+> AIM OF THE APP
+DFGHJKLJHGFD
 > FUNCTIONAL REQUIREMENTS
  1) The app shoud have clickable Previous Button
  2) The app should have clickable Next Button
