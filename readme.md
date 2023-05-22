@@ -8,5 +8,5 @@ ALX PROJECT : Build your portfolio project (Week 1): Making Progress    |
 > PURPOSE OF THE MUSIC PLAYER APPLICATION
 >> The app is used for entertainment by exploring and browsing throught the interfaces by playing music and reading news that shoots up in the industry of music.
 ---------------------------------------------------------------------------------------------
-> PROJECT LINK(live Demo): ![Music Player App](https://solesinnovationhub.infinityfreeapp.com/sw-projects/webapps/music-player-app/index.php)
+> PROJECT LINK(live Demo): [Music Player App](https://solesinnovationhub.infinityfreeapp.com/sw-projects/webapps/music-player-app/index.php)
 ----------------------------------------------------------------------------------------------
