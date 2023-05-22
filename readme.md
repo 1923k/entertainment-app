@@ -18,9 +18,6 @@ The app is used for entertainment by exploring and browsing throught the interfa
  2. Visual Studio Code
  3. Languages : Javascript, html, css and php
 
-> AIM OF THE APP
-DFGHJKLJHGFD
-
 > FUNCTIONAL REQUIREMENTS
  1) The app shoud have clickable Previous Button
  2) The app should have clickable Next Button
@@ -28,7 +25,7 @@ DFGHJKLJHGFD
  4) The app should have clickable Repeat Button
  5) Users should be able to browse through different categories of songs.
 
-> HOW TO RUN THE APP
-
+> HOW TO RUN THE APP ON THE LOCAL MACHINE
+  1. Ensure that the XAMMP App is installed and started(APACHE)
 
 
