@@ -9,6 +9,7 @@ NOTICE:
   2. The content used in the application is not verified or authorized to an individual
   3. The application is not for commercial purpose
   4. Any missuse of the application and its content is not permitted
+-----------------------------------------------------------------------------|
 
 > NOTICE:
   1. The application is used for learning purpose
