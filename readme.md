@@ -27,5 +27,11 @@ The app is used for entertainment by exploring and browsing throught the interfa
 
 > HOW TO RUN THE APP ON THE LOCAL MACHINE
   1. Ensure that the XAMMP App is installed and started(APACHE)
+  2. Configure approriately the path for which the app will be running from local computer
+
+> AUTHORS.
+  1. Kefuoe Sole [Linkedin] || [Github]
+
+  5. 
 
 
