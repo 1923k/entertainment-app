@@ -15,4 +15,14 @@ ALX PROJECT : Build your portfolio project (Week 1): Making Progress    |
  2. Visual Studio Code
  3. Languages : Javascript, html, css and php
 
-> 
+> Functional requirements
+ 1) The app shoud have clickable Previous Button
+ 2) The app should have clickable Next Button
+ 3) The app should have clickable Play and Pause Button
+ 4) The app should have clickable Repeat Button
+ 5) Users should be able to browse through different categories of songs.
+
+
+
+
+
