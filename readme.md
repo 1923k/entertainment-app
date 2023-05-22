@@ -30,8 +30,5 @@ The app is used for entertainment by exploring and browsing throught the interfa
   2. Configure approriately the path for which the app will be running from local computer
 
 > AUTHORS.
-  1. Kefuoe Sole [Linkedin] || [Github]
-
-  5. 
-
+  1. Kefuoe Sole [Linkedin](https://www.linkedin.com/in/kefuoe-sole-0797061ba/) || [Github](https://github.com/1923k/)
 
