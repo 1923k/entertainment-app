@@ -4,6 +4,7 @@ MUSIC PLAYER APPLICATICATION                                            |
 ------------------------------------------------------------------------|
 > DESCRIPTION
 This is the ALX project Task for developing a portfolio project. The name of the portfolio project is Musiu Player Application which is a web based application.
+-------------------------------------------------------------------------------------------
 > NOTICE:
   1. The application is used for learning purpose
   2. The content used in the application is not verified or authorized to an individual
