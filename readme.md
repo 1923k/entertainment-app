@@ -1,12 +1,17 @@
 # Date: 22/05/2023
 ------------------------------------------------------------------------
-ALX PROJECT : Build your portfolio project (Week 1): Making Progress    |
+MUSIC PLAYER APPLICATICATION                                            |
 ------------------------------------------------------------------------|
 > DESCRIPTION
->> This is the ALX project Task for developing a portfolio project. The name of the portfolio project is Musiu Player Application which is a web based application
+This is the ALX project Task for developing a portfolio project. The name of the portfolio project is Musiu Player Application which is a web based application.
+> NOTICE:
+  1. The application is used for learning purpose
+  2. The content used in the application is not verified or authorized to an individual
+  3. The application is not for commercial purpose
+  4. Any miss use of the application and its content is not authorized
 --------------------------------------------------------------------------------------------
 > PURPOSE OF THE MUSIC PLAYER APPLICATION
->> The app is used for entertainment by exploring and browsing throught the interfaces by playing music and reading news that shoots up in the industry of music.
+The app is used for entertainment by exploring and browsing throught the interfaces by playing music and reading news that shoots up in the industry of music.
 ---------------------------------------------------------------------------------------------
 > PROJECT LINK(live Demo): [Music Player App](https://solesinnovationhub.infinityfreeapp.com/sw-projects/webapps/music-player-app/index.php)
 ----------------------------------------------------------------------------------------------
@@ -15,14 +20,14 @@ ALX PROJECT : Build your portfolio project (Week 1): Making Progress    |
  2. Visual Studio Code
  3. Languages : Javascript, html, css and php
 
-> Functional requirements
+> FUNCTIONAL REQUIREMENTS
  1) The app shoud have clickable Previous Button
  2) The app should have clickable Next Button
  3) The app should have clickable Play and Pause Button
  4) The app should have clickable Repeat Button
  5) Users should be able to browse through different categories of songs.
 
-
+> HOW TO RUN THE APP
 
 
 
