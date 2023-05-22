@@ -2,4 +2,6 @@
 ------------------------------------------------------------------------
 ALX PROJECT : Build your portfolio project (Week 1): Making Progress    |
 ------------------------------------------------------------------------|
-![Music Player App](https://github.com/1923k/alx-music-player-app/img/ban-1.png)
+> DESCRIPTION
+This is the ALX project Task for developing a portfolio project
+
