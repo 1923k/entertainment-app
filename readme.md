@@ -3,5 +3,5 @@
 ALX PROJECT : Build your portfolio project (Week 1): Making Progress    |
 ------------------------------------------------------------------------|
 > DESCRIPTION
-. This is the ALX project Task for developing a portfolio project
+>> This is the ALX project Task for developing a portfolio project
 
