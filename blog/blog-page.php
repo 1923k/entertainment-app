@@ -26,7 +26,7 @@
                     <ul>
                         <li><a href="../index.php">HOME</a></li>
                         <li><a href="#blog/blog-page.php">BLOG</a></li>
-                        <li><a href="#details/about.php">ABOUT</a></li>
+                        <li><a href="../about.php">ABOUT</a></li>
                         <li><a href="#details/contact.php">CONTACT</a></li>
                         <li><a href="#details/signup.php">SIGN UP</a></li>
                         <li><a href="#details/login.php">LOGIN</a></li>
