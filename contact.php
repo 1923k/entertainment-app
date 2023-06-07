@@ -7,7 +7,6 @@
     <title>Welcome to Our Music Player App</title>
     <link rel="stylesheet" href="css/style679.css">
     <link rel="stylesheet" href="css/content.css">
-    <link rel="stylesheet" href="css/flex-boxes.css">
     <link rel="stylesheet" href="css/style0.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -26,7 +25,7 @@
                 <div class="nav-links" id="navLinks">
                     <img src="img/close1.png" onclick="hideMenu()">
                     <ul>
-                        <li><a href="index.php">HOME</a></li>
+                        <li><a href="#index.php">HOME</a></li>
                         <li><a href="blog/blog-page.php">BLOG</a></li>
                         <li><a href="about.php">ABOUT</a></li>
                         <li><a href="contact.php">CONTACT</a></li>
@@ -41,7 +40,7 @@
         
 
         <div class="text-box">
-            <h1 style="color: white;">KNOW US BETTER</h1>
+            <h1 style="color: white;">CONTACT US</h1>
             <div class="text-body">
 
             </div>
@@ -50,35 +49,33 @@
         </div>
     </section>
 
-    <section id="form-details">
-        <form action=""> 
-            <h3>Sole's Card</h3>
-            
-            <p style="text-align:justify">
-            He is highly motivated individual in the field of Information Communication Technology learning and 
-            applying knowledge and skills learnt in fields of  Software Engineering, Computer Networking, 
-            Cyber Security, ICT Teaching Facilitation, Cloud Computing and 
-            IT Support and many more to cater to the specific needs of the people. 
-            <br><br>
-            He is currently pursuing my BSc (Hons) in Computing (Software Engineering and Network & Infrastructure Management)
-            at Botho University and he is in his final year(5th) of study. Ever since enrolled in this field of Information Technology, 
-            his experience with IT change day to day for better amazing changes.                
-            </p> 
-            
-        </form>
+   
+    <!-- Blog Page Content -->
 
-        <div class="people">
-            <div>
-                <img src="img/icon-1.jpg" alt="" style="border-radius: 50%;">
-                <p><span>Kefuoe Sole</span> 
-                Software Developer (Frontend Developer) <br> 
-                Phone: (+266) 58183915 <br> 
-                Email: soolekefuoe2@gmail.com<br>
-                Github: <a href="https://github.com/1923k">Github link</a><br>
-                Linkedin: <a href="https://www.linkedin.com/in/kefuoe-sole-0797061ba/">Linkedin link</a><br>
-            </p>
+    <section class="blog-content">
+    
+    <div class="row">
+     
+        <div class="blog-right">
+            <div class="comment-box">
+
+                <h3>CONTACT US</h3>
+
+                <form class="comment-form">
+                    <input type="text" placeholder="Enter Names">
+                    <input type="email" placeholder="Enter Email">
+                    <textarea name="" rows="5" placeholder="Your message"></textarea>
+                    <button type="submit" class="hero-btn red-btn"><i class="fa fa-mail-forward"></i> FORWARD</button>
+
+                </form>
+
             </div>
+
+            <br><br><br>
         </div>
+        
+    </div>
+    
     </section>
   
     <section id="newsletter" class="section-p1 section-m1">

@@ -27,7 +27,7 @@
                         <li><a href="../index.php">HOME</a></li>
                         <li><a href="#blog/blog-page.php">BLOG</a></li>
                         <li><a href="../about.php">ABOUT</a></li>
-                        <li><a href="#details/contact.php">CONTACT</a></li>
+                        <li><a href="../contact.php">CONTACT</a></li>
                         <li><a href="#details/signup.php">SIGN UP</a></li>
                         <li><a href="#details/login.php">LOGIN</a></li>
                     </ul>
@@ -41,9 +41,7 @@
         <div class="text-box">
             <h1 style="color: white;">What is new to now</h1>
             <div class="text-body"></div>
-            <a href="https://www.linkedin.com/in/kefuoe-sole-0797061ba/" class="hero-btn" style="font-size: 18px; border-radius: 5px;">
-                <li class="fa fa-user-circle-o"></li> Web Designer: Kefuoe Sole
-            </a>
+           
         </div>
     </section>
 
