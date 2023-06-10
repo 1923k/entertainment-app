@@ -15,7 +15,7 @@
 </head>
 <body>
     
-
+ <!-- Top navigation bar links -->
 <section id="product1" class="section-p1">
         <font>
             <a href="#play.php" class="hero-btnn" style="float:left;"><li class="fa fa-home"></li> SIHUB</a>
@@ -24,6 +24,8 @@
             <a href="#play.php" class="hero-btnn"><li class="fa fa-lock"></li> LOGIN</a>
             <a href="index.php" class="hero-btnn" style="float: right;"><li class="fa fa-sign-out"></li> EXIT</a>
         </font>
+
+         <!-- Music access -->
         <div class="pro-container">
             <div class="pro" style="width: 47%; background-color: powderblue;" >
                 <div class="div-1">

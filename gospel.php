@@ -16,7 +16,7 @@
 </head>
 <body>
     
-
+ <!-- Top navigation bar links -->
 <section id="product1" class="section-p1">
         <font>
         <nav>
@@ -41,6 +41,8 @@
             </div>
         </nav>
         </font>
+        
+        <!-- Music access -->
         <div class="pro-container">
             <div class="pro" style="width: 47%; background-color: powderblue;" >
                 <div class="div-1">

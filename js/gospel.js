@@ -79,6 +79,7 @@ const music_list = [
 
 loadTrack(track_index);
 
+
 function loadTrack(track_index){
     clearInterval(updateTimer);
     reset();

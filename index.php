@@ -98,6 +98,19 @@
             </div>
         </div>
     </section>
+
+    <section id="product1" class="section-p1">
+        <p style="font-weight: 600; font-size: 26px; color: black;">LIVE PROJECT DEMO </p>
+    
+        <div class="pro-container">
+            <p>Explore how to use the project on the vedio given</p>
+
+        <iframe width="800" height="400" style="border: 3px solid green;" 
+            src="https://www.youtube.com/embed/3ZNvVbLFYWg&t">
+        </iframe>
+        </div>
+    </section>
+  
   
     <section id="newsletter" class="section-p1 section-m1">
         <div class="newstext">

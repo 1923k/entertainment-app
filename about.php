@@ -19,6 +19,7 @@
         <i class="fa fa-angle-up" style="color:white; font-weight: 600;"></i>
     </button>
 
+    <!-- Top navigation bar links -->
     <section class="header">
         <nav>
             <a href="index.php" style="text-decoration: none; font-size: 1.5rem; color: white;"><li class="fa fa-music"></li> Music Player MP3</a>
@@ -45,11 +46,10 @@
             <div class="text-body">
 
             </div>
-            <!-- <a href="gospel.php" class="hero-btn"><li class="fa fa-eye"></li> PLAY NOW</a>
-            <a href="#details/download.php" class="hero-btn"><li class="fa fa-download"></li> DOWNLOAD MUSIC</a> -->
         </div>
     </section>
-
+    
+   <!-- About section for the project-->
     <section id="form-details">
         <form action=""> 
             <h3>Sole's Card</h3>
@@ -80,7 +80,9 @@
             </div>
         </div>
     </section>
-  
+    <!--End of about us for the project -->
+
+    <!--Subscribe section-->
     <section id="newsletter" class="section-p1 section-m1">
         <div class="newstext">
             <h4>Sin Up For Newsletters</h4>
@@ -91,6 +93,7 @@
             <button class="normal"><a href="#register.php" >Sign Up</a></button>
         </div>
     </section>
+    <!--End of Subscribe section-->
 
     <!--footer -->
     <?php

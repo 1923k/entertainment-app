@@ -18,6 +18,7 @@
         <i class="fa fa-angle-up" style="color:white; font-weight: 600;"></i>
     </button>
 
+    <!-- Top navigation bar links -->
     <section class="header">
         <nav>
             <a href="index.php" style="text-decoration: none; font-size: 1.5rem; color: white;"><li class="fa fa-music"></li> Music Player MP3</a>
@@ -38,20 +39,17 @@
             </div>
         </nav>
         
-
+        <!-- Contact section for the project-->
         <div class="text-box">
             <h1 style="color: white;">CONTACT US</h1>
             <div class="text-body">
 
             </div>
-            <!-- <a href="gospel.php" class="hero-btn"><li class="fa fa-eye"></li> PLAY NOW</a>
-            <a href="#details/download.php" class="hero-btn"><li class="fa fa-download"></li> DOWNLOAD MUSIC</a> -->
         </div>
     </section>
-
+    <!--End of contact us for the project -->
    
-    <!-- Blog Page Content -->
-
+    <!-- Contact form-->
     <section class="blog-content">
     
     <div class="row">
@@ -75,9 +73,10 @@
         </div>
         
     </div>
-    
     </section>
+    <!-- End of contact form-->
   
+     <!--Subscribe section-->
     <section id="newsletter" class="section-p1 section-m1">
         <div class="newstext">
             <h4>Sin Up For Newsletters</h4>
@@ -88,6 +87,7 @@
             <button class="normal"><a href="#register.php" >Sign Up</a></button>
         </div>
     </section>
+     <!--End of Subscribe section-->
 
     <!--footer -->
     <?php
