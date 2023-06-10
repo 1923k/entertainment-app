@@ -1,7 +1,8 @@
 # Date: 22/05/2023
 ------------------------------------------------------------------------
-MUSIC PLAYER APPLICATICATION                                            |
+AFRICAN MUSIC SOFTWARE APPLICATICATION                                            |
 ------------------------------------------------------------------------|
+![Banner](img/img-1.png)
 This is the ALX project Task for developing a portfolio project. The name of the portfolio project is Musiu Player Application which is a web based application.
 The app is used for entertainment by exploring and browsing throught the interfaces by playing music and reading news that shoots up in the industry of music. 
 
